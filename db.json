@@ -1,5 +1,19 @@
 {
-    "card": [
+    "cards": [
+        {
+            "title": "Кресло желтое",
+            "company": "IKEA",
+            "price" : "9999"
+        },
+        {
+            "title": "Кресло желтое",
+            "company": "IKEA",
+            "price" : "9999"
+        }, {
+            "title": "Кресло желтое",
+            "company": "IKEA",
+            "price" : "9999"
+        },
         {
             "title": "Кресло желтое",
             "company": "IKEA",

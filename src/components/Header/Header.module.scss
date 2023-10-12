@@ -1,4 +1,16 @@
 .header {
 	background: #d6ccc2;
-	height: 100px;
+	height: 70px;
+	&__menu {
+		&_list {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 20px;
+			list-style: none;
+		}
+		&_link {
+			text-decoration: none;
+		}
+	}
 }

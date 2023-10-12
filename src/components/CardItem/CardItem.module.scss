@@ -1,7 +1,21 @@
 .card {
-	padding: 5px;
-	border: 1px solid black;
 	display: flex;
 	flex-direction: column;
-	gap: 10px;
+	background-color: rgb(253, 250, 250);
+	color: #473e66;
+	align-items: center;
+	justify-content: center;
+	margin-top: 10px;
+	&__img {
+		max-width: 200px;
+		object-fit: unset;
+	}
+	&__title {
+		font-size: 20px;
+		margin: 0;
+	}
+	&__descr {
+		font-size: 16px;
+		margin-top: 5px;
+	}
 }

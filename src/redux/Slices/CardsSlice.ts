@@ -1,6 +1,5 @@
 import { ICard } from './../../interfaces/ICard';
 import { PayloadAction, createAsyncThunk, createSlice } from '@reduxjs/toolkit';
-import axios from 'axios';
 
 interface CardsState {
 	cards: ICard[];

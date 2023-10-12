@@ -4,24 +4,28 @@
             "id": 1,
             "title": "Кресло желтое",
             "company": "IKEA",
-            "price" : 9999
+            "price" : 9999,
+            "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT84aOa0g30GL4o-lEixK-a4-oo0uwsKiwka2WSQfnXiTQnwlRW4L01KeLcgLx1WJa2ypTqheYOLe8ieOCQKtaLZIjLqSyJHomzdtejQ96kqU1TGNKObLhtIAyj8ZV63lONfP9QeDwwYf4&usqp=CAc"
         },
         {
             "id": 2,
             "title": "Кресло красное",
             "company": "IKEA",
-            "price" : 9999
+            "price" : 9999,
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFmINqlBC4J-ANjGaceYrJqjwxKyHVq07vi_-sd3RYeuviOEjWNSa_UFzlgh0_DuuiIzKzJGgTjWyQzMwDLgD_hApI4Hvm5qUM_M5Ba7TlAV7UIuId6f0jJEVA93TrTbxUp9F90Q&usqp=CAc"
         }, {
             "id": 3,
             "title": "Кресло зеленое",
             "company": "IKEA",
-            "price" : 1111
+            "price" : 1111,
+            "url" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8x-YsQAs1uJPtt6J1K8zZVih23gtf3G4_pa68QN4othuO_42Xy08m8SYjnjLhHfE20h_QqLAt4bwCIRKALbKig4MLT1uQAMT_aVDwL8CqqXtKmoLMMagXPcff1-pQzX8dpch-l2o&usqp=CAc"
         },
         {
             "id": 4,
             "title": "Кресло синее",
             "company": "IKEA",
-            "price" : 2222
+            "price" : 2222,
+            "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeumwPKHGeXXB3EbOmpBpguw7vgRj01521XWc9nWg5Hfi1lbmnW0BLilGt0hOZk4c98Urexk-Hah4AV5yzdjLuP2W7hF_32jZVRR4NfRwNb6RStq6e6DJEiAVMQLXWQw&usqp=CAc"
         }
     ]
 }

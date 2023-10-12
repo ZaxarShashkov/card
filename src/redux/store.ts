@@ -1,6 +1,9 @@
 import { combineReducers, configureStore, getDefaultMiddleware } from '@reduxjs/toolkit';
+import cardReducer from './Slices/CardsSlice';
 
-const rootReducer = combineReducers({});
+const rootReducer = combineReducers({
+	cardReducer,
+});
 
 export const setupStore = () => {
 	return configureStore({

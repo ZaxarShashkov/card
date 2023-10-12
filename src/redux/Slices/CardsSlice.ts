@@ -44,3 +44,5 @@ export const cardsSlice = createSlice({
 			.addDefaultCase(() => {});
 	},
 });
+
+export default cardsSlice.reducer;
